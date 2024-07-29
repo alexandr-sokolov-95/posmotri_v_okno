@@ -271,6 +271,7 @@ ol {
 
 .content__video-card-title {
   margin-block-end: 6px;
+  max-inline-size: 200px;
   font-family: Oswald, sans-serif;
   font-size: 30px;
   line-height: 1;
